@@ -1,0 +1,29 @@
+# Entorno virtual de Python
+venv/
+env/
+ENV/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs y archivos temporales
+*.log
+*.tmp
+
+# Archivos de configuración local (si los hay)
+.config/
+.settings/
+
+# Archivos de IDE (opcional, si usas otros)
+.vscode/settings.json
+.idea/
